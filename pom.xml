@@ -6,21 +6,7 @@
   
   
   <dependencies>
-		
-    <!-- ZXing core -->
-    <dependency>
-        <groupId>com.google.zxing</groupId>
-        <artifactId>core</artifactId>
-        <version>3.5.3</version>
-    </dependency>
-
-    <!-- ZXing Java SE helpers (for file writing) -->
-    <dependency>
-        <groupId>com.google.zxing</groupId>
-        <artifactId>javase</artifactId>
-        <version>3.5.3</version>
-    </dependency>
-    
-</dependencies>
+	  
+  </dependencies>
 
 </project>
